@@ -1,0 +1,101 @@
+
+        nav li {
+            float: left;
+        }
+
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+
+        nav a {
+
+            color: rgb(24, 13, 13);
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        .same {
+            background-color: yellow;
+        }
+        table {
+            border-collapse: collapse;
+            text-align: center;
+        }
+
+        .hllo {
+            margin-left: 30%;
+        }
+
+        .biodata {
+            border-style: solid;
+            padding-left: 25px ;
+
+        }
+
+        .biodata h2 {
+            text-align: center;
+
+        }
+        .decorate li {
+            text-decoration-line: underline;
+        }
+    .myimg{
+        height: 200px;
+        margin-left: 45%;
+    }
+    button{
+        /* margin-left: 50% ; */
+    }
+    div img {
+        margin-left: 30% ;
+    }
+    .button-container {
+        display: flex;
+        justify-content: space-around ; /* Adjust as needed */
+        padding-left: 20px;
+        margin-left: 30px;
+    
+    }
+    
+    .button {
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+        background-color: #4CAF50;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        margin-bottom: 20px;
+    }
+
+    .maindiv
+    {
+        display: flex;
+        gap: 90px ;
+        height: 300px;
+        width: 700px;
+        border: 1px solid black;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .div1
+    {   
+        height: 200px;
+        width: 200px;
+        border-radius: 50%;
+        border: 1px solid black;
+        transition: transform 1s ease;
+    }
+    .div2
+    {
+        height: 200px;
+        width: 200px;
+        border-radius: 50%;
+        border: 1px solid black;
+        transition: transform 1s
+         ease;
+    }
